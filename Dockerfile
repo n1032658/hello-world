@@ -5,4 +5,3 @@ RUN pwd
 RUN whoami
 RUN ls
 ADD ${WAR_FILE} /usr/local/tomcat/webapps
-
